@@ -2,7 +2,6 @@
 
 
 - 📖 I’m currently learning HTML e CSS
-- ✏ I’m looking for help with Teacher Gustavo Guanabara
 - 🎮 Fun fact: my nickname is Blueerd
 
 <hr>
