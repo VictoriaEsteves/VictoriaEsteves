@@ -6,8 +6,11 @@
 - 🎮 Fun fact: my nickname is Blueerd
 
 <hr>
-<img src="https://github-readme-stats-victoriaesteves.vercel.app/api?username=VictoriaEsteves&show_icons=true&theme=onedark"/>
-<img src="https://github-readme-stats-victoriaesteves.vercel.app/api/top-langs/?username=VictoriaEsteves&layout=compact&theme=onedark"/>
+<div> 
+ <img width="400px" src="https://github-readme-stats-victoriaesteves.vercel.app/api?username=VictoriaEsteves&show_icons=true&theme=onedark"/> &nbsp 
+ <img width="300px" src="https://github-readme-stats-victoriaesteves.vercel.app/api/top-langs/?username=VictoriaEsteves&layout=compact&theme=onedark"/>
+</div>
+
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
