@@ -12,6 +12,7 @@
  <img width="300px" src="https://github-readme-stats-victoriaesteves.vercel.app/api/top-langs/?username=VictoriaEsteves&layout=compact&theme=onedark"/>
 </div>
 <br>
+<hr>
 <h3> 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
