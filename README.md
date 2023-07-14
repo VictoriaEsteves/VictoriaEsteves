@@ -1,38 +1,32 @@
-### Hello, I'm Victoria Esteves!
+# ❕❕ About Me:
+💎 𝐈 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤❕<br>
+📖 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒❕<br>
+💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐆𝐚𝐦𝐞𝐬 𝐨𝐫 𝐒𝐞𝐫𝐢𝐞𝐬❕<br>
+⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 𝐦𝐲 𝐧𝐢𝐜𝐤𝐧𝐚𝐦𝐞 𝐢𝐬 𝐁𝐥𝐮𝐞𝐞𝐫𝐝 🔵
 
 
-- 📖 I’m currently learning HTML e CSS
-- 🎮 Fun fact: my nickname is Blueerd
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Victoria.Esteves) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Blueerd) 
 
-<hr>
-
-<div> 
- <h3>⭐ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 ⭐</h3>
- <img width="400px" src="https://github-readme-stats-victoriaesteves.vercel.app/api?username=VictoriaEsteves&show_icons=true&theme=onedark"/> &nbsp 
- <img width="300px" src="https://github-readme-stats-victoriaesteves.vercel.app/api/top-langs/?username=VictoriaEsteves&layout=compact&theme=onedark"/>
-</div>
-<br>
-<hr>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
 <div>
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictoriaEsteves&bg_color=0d1117&color=858585&line=df6d74&point=fff9f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+ <img src="https://github-readme-stats.vercel.app/api?username=VictoriaEsteves&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaEsteves&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+ <br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriaEsteves&theme=nightowl&hide_border=true"><br/>
+
 </div>
-<hr>
-<h3> 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
- <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<hr>
-<h3> 📱 𝑺𝒐𝒄𝒊𝒂𝒍𝒔</h3>
-<div>
-  <a href="https://www.instagram.com/victoria.esteves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/blueerd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
-</div>
-<!-- 
- ![Anurag's GitHub stats](https://github-readme-stats-victoriaesteves.vercel.app/api?username=VictoriaEsteves&show_icons=true&theme=onedark)
- ![Top Langs](https://github-readme-stats-victoriaesteves.vercel.app/api/top-langs/?username=VictoriaEsteves&layout=compact&theme=onedark)
--->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VictoriaEsteves&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=VictoriaEsteves&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
