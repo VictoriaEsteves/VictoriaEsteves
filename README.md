@@ -13,6 +13,12 @@
 </div>
 <br>
 <hr>
+<div>
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictoriaEsteves&bg_color=0d1117&color=858585&line=df6d74&point=fff9f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
+<hr>
 <h3> 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 </h3>
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
