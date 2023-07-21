@@ -5,8 +5,6 @@
 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐆𝐚𝐦𝐞𝐬 𝐨𝐫 𝐒𝐞𝐫𝐢𝐞𝐬❕<br>
 ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 𝐦𝐲 𝐧𝐢𝐜𝐤𝐧𝐚𝐦𝐞 𝐢𝐬 𝐁𝐥𝐮𝐞𝐞𝐫𝐝 🔵
 
-
-
 # 📊 GitHub Stats:
 <div>
  <img src="https://github-readme-stats-victoriaesteves.vercel.app/api?username=VictoriaEsteves&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"> &nbsp &nbsp
