@@ -14,17 +14,20 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriaEsteves&theme=nightowl&hide_border=true"><br/>
 </div>
 
-## 🌐 Socials: 
 
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-543DE0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Victoria.Esteves) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/Blueerd) 
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+
 
 ### 💎 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VictoriaEsteves&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
+
 
 ### 🖋 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
