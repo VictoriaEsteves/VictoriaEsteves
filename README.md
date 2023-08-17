@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 <div>
  <img src="https://vercel.com/victoriaesteves/github-readme-stats/HZnZdDUBwef8dCHZ88e9XegaZrhQ/api?username=VictoriaEsteves&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"> &nbsp &nbsp
- <img src="https://github-readme-stats-nine-jade-26.vercel.app/api/top-langs/?username=VictoriaEsteves&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+ <img src="github-readme-stats-9pzf5xjmv-victoriaesteves.vercel.app/api/top-langs/?username=VictoriaEsteves&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
  <br>
  <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriaEsteves&theme=nightowl&hide_border=true"><br/>
