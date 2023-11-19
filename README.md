@@ -1,5 +1,5 @@
 # ❕❕ About Me:
-<img align="right" width="150px" src="https://media.discordapp.net/attachments/808414866711773227/1129518045417705572/IMG_8229.gif">
+<img align="right" width="150px" src="https://media.discordapp.net/attachments/808414866711773227/1175891551361179801/86l9a0.gif?ex=656ce158&is=655a6c58&hm=5505582f07bb39f313e9323cf7770ef09c3e46175c2c575479d4bd8c2553dbd8&=">
 💎 𝐈 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤❕<br>
 📖 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭❕<br>
 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐆𝐚𝐦𝐞𝐬 𝐨𝐫 𝐒𝐞𝐫𝐢𝐞𝐬❕<br>
