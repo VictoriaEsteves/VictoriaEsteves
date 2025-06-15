@@ -44,7 +44,7 @@ Exercicios De HTML e CSS:
     <ol>
         <li> <a href="https://victoriaesteves.github.io/Cordel-Moderno/" target="_blank">Codel Moderno</a></li>
         <li> <a href="https://victoriaesteves.github.io/Projeto-Android/" target="_blank">Projeto-Android</a></li>
-        <li> <a href="https://victoriaesteves.github.io/TodoApp/" target="_blank">TO DO App</a></li>
+        <li> <a href="https://victoriaesteves.github.io/TodoApp/" target="_blank">To Do App</a></li>
         <li> <a href="https://victoriaesteves.github.io/Projeto-Social/" target="_blank">Projeto Redes Sociais</a> </li>
     </ol>
 </div>
